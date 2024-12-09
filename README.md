@@ -116,7 +116,6 @@ aktorok:
 > 
 > - https://github.com/digital-asset/daml
 > - https://www.digitalasset.com/developers/examples
-> - https://cambridge-intelligence.com/kronograph/
 
 
 > #### Elosztott főkönyv kereskedelemben
@@ -127,5 +126,24 @@ aktorok:
 >
 > ![](https://media.licdn.com/dms/image/v2/D4D12AQEkC_s1FTH-MA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1687438754531?e=1739404800&v=beta&t=9HSu-gMVAGBqrXIGKXhzIyjhsE6lLwnuymGWzKUYB_Y)
 
+### A kriptoeszközök piacainak szabályozása (MiCA)
+> A [kriptoeszközök piacairól szóló rendelet (MiCA)](https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica) egységes uniós piaci szabályokat vezet be a kriptoeszközökre vonatkozóan. A rendelet azokra a kripto-eszközökre vonatkozik, amelyeket jelenleg nem szabályoznak a hatályos pénzügyi szolgáltatási jogszabályok. A kriptovaluták (beleértve az eszközreferencia-tokeneket és az e-pénz-tokeneket) kibocsátóira és kereskedőire vonatkozó legfontosabb rendelkezések az átláthatóságra, a közzétételre, az engedélyezésre és az ügyletek felügyeletére vonatkoznak. Az új jogi keret támogatja a piac integritását és a pénzügyi stabilitást azáltal, hogy szabályozza a kriptovaluták nyilvános kínálatát, és biztosítja, hogy a fogyasztók jobban tájékozódjanak a kapcsolódó kockázatokról.
+
+### [DLT Pilot Regime](https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/dlt-pilot-regime) A DLT Pilot Regime 
+> 2023. március 23-tól kezdte meg alkalmazását az EU-ban. A MiFID II. értelmében pénzügyi eszköznek minősülő kriptoeszközökkel kapcsolatos ügyletek kereskedelmének és elszámolásának jogi keretét biztosítja, miközben megkönnyíti az új típusú piaci infrastruktúrák létrehozását, ideértve a következőket:
+> - DLT multilaterális kereskedési rendszer (DLT MTF)
+> - DLT elszámolási rendszer (DLT SS)
+> - DLT kereskedési és elszámolási rendszer (DLT TSS).
+
+### Verzió kezelés
+#### Fájlverziók
+- https://ipfs.tech/
+- https://pinata.cloud/
+
+#### Más fizikai dolgok verzió követése
+- Gyémánt és egyedi fizikai eszközök követése: https://everledger.io/
+- Gyógyszer követés és kár rendezés: https://www.autodose.com.au/medledger/
+- Diplomák nyomonkövetése: https://www.blockcerts.org/
+ - https://github.com/blockchain-certificates
 
 
