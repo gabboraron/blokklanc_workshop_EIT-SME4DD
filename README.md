@@ -1,5 +1,7 @@
 # "Blockchain a kisvállalkozások számára" workshop by [EIT](https://professionalschool.eitdigital.eu/sme4dd-courses/blokklanc-projekttervezes-kisvallalatoknak)/[SME4DD](https://www.eitdigital.eu/eu-collaborations/sme4dd/)-[KIFÜ](https://kifu.gov.hu/sme4dd_blokklanc_kisvall/)
 
+Tanácsadás: https://digitaltechedih.hu/
+
 > **Mire készít fel a képzés?**
 > - Blokklánc projektek magas szintű tervezése
 > - Blokklánc megoldás kiválasztásának szempontrendszere
@@ -140,10 +142,17 @@ aktorok:
 - https://ipfs.tech/
 - https://pinata.cloud/
 
+#### Adatok megosztása
+- digitális egészségügyi megoldások a hamisított gyógyszerek felderítésére, a klinikai vizsgálatok decentralizálására és a gyógyszerellátási láncok kezelésére: https://pharmaledger.org
+- megbízható hálózatok az egészségügyi adatok számára: https://akiri-switch.squarespace.com/
+
 #### Más fizikai dolgok verzió követése
 - Gyémánt és egyedi fizikai eszközök követése: https://everledger.io/
 - Gyógyszer követés és kár rendezés: https://www.autodose.com.au/medledger/
 - Diplomák nyomonkövetése: https://www.blockcerts.org/
  - https://github.com/blockchain-certificates
+- termék útlevél: https://www.venly.io/
+- termék követés: https://www.diginex.com/diginex-esg
+
 
 
