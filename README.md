@@ -49,6 +49,8 @@ THEN
 choclateID.owner = reciever
 ```
 
+Okos szerződés minták elérhetőek ingyen: https://www.openzeppelin.com/
+
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S2352467721001247-gr9.jpg)
 
 # Publikus blokkláncok
@@ -67,4 +69,63 @@ choclateID.owner = reciever
 > Előnyök:
 > - jutalékok olcsóbbak
 > - trust intermediation
+
+# Ötletek blokkláncon
+https://www.kaleido.io/
+
+Költségek és tranzakciós idő vizualizálva:https://txcity.io/
+
+Polygon hálózat (ETH alapú): https://polygonscan.com/
+- mintha nap végén küldöm be az összes infómat, tehát késik az infó, de cserébe olcsóbb
+- [layer2](https://kriptotarca.hu/a-layer-2-fogalma-mi-az-a-layer-2-halozat-es-hogyan-mukodik-a-layer-1-network-hoz-kepest/) megoldások
+- legnépszerűbb megoldás: [OpenSea](https://opensea.io/)
+  - Klint csókjának NFTje: https://thekiss.art/
+
+Solidity példa játék ([eth virtual machine](https://ethereum.org/en/developers/docs/evm/)on): https://cryptozombies.io/
+
+![](https://www.slideteam.net/media/catalog/product/cache/1280x720/c/o/comparison_of_consensus_mechanism_algorithms_in_blockchain_training_ppt_slide01.jpg)
+
+| ![](https://appinventiv.com/wp-content/uploads/2023/12/Exploring-the-Business-Benefits-of-Permissioned-Blockchains-Efficiency-Security-and-Collaboration-07.webp) | Functional: identificable participants <br> <br> Extra functional: scalability, privacy, predictable costs, availability |
+| ----- | ---- |
+
+> A lakossági központi banki digitális valutarendszer (CBDC) kifejlesztése jelentős vállalkozás, és a központi bankoknak számos területet kell megvizsgálniuk, többek között: Hogyan javítható a köz- és magánszféra együttműködése? Hogyan lehet maximalizálni az átjárhatóságot, ösztönözni a versenyt és lehetővé tenni az elfogadást? Hogyan felelhet meg a kiskereskedelmi CBDC a jelenlegi és jövőbeli fogyasztói igényeknek a gyorsan változó fizetési környezetben?
+>
+> https://www.bis.org/about/bisih/topics/cbdc/rosalind.htm
+
+**Tipikus szoftveres megoldások:**
+- hyperledger technologies
+- R3 Corda
+- Digital Asset
+- ethereum variants: Quorum, HL Besu
+- bitcoin
+- [BcaaS](https://www.scirp.org/journal/paperinformation?paperid=117570)
+
+## példa
+aktorok:
+- vevők
+- gyártók
+- stakeholderek
+
+-> üzleti folyamat
+
+> ### Elosztott főkönyv
+>
+> **[Digital Asset language](https://www.digitalasset.com/developers)**
+>
+> *A Daml egy intelligens szerződési nyelv, amelyet úgy terveztek, hogy összeállítható alkalmazásokat építsen egy absztrakt Daml Ledger Model koncepcióra.*
+> 
+> - https://github.com/digital-asset/daml
+> - https://www.digitalasset.com/developers/examples
+> - https://cambridge-intelligence.com/kronograph/
+
+
+> #### Elosztott főkönyv kereskedelemben
+>
+> *"A nemzetközi kereskedelem digitalizálása a legtöbbet vizsgált témák közé tartozik, különösen a Covid-19 pandémia után. A mesterséges intelligencia chatGPT és az Apple vegyes valóság szemüvegének, a világ első viselhető számítógépének, a "Vision Pro"-nak a megjelenésével nehéz elhinni, hogy a nemzetközi kereskedelem több mint 25 billió dollárnyi része még mindig papíron zajlik. Kétségtelen, hogy az elosztott főkönyvi technológia (DLT) vagy blokklánc a legfontosabb technológiai áttörés, amely lehetővé teszi a nemzetközi kereskedelem digitalizálását."*
+>
+> https://www.linkedin.com/pulse/when-digitalization-dlt-norm-international-trade-meral-%C5%9Feng%C3%B6z/
+>
+> ![](https://media.licdn.com/dms/image/v2/D4D12AQEkC_s1FTH-MA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1687438754531?e=1739404800&v=beta&t=9HSu-gMVAGBqrXIGKXhzIyjhsE6lLwnuymGWzKUYB_Y)
+
+
 
