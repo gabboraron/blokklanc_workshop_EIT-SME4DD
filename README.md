@@ -60,10 +60,11 @@ choclateID.owner = reciever
 *Találgatok és azért fogadjuk el az én eredményemet mert elsőként megtaláltam*
 
 ## [Proof of stake](https://academy.binance.com/hu/articles/proof-of-stake-explained)
-A proof-of-stake blokklánc hálózaton résztvevő entitásokat mintereknek (szabatos fordításban pénzverőknek) vagy más néven validátorokonak nevezzük. A legtöbb protokollban a validátorok jutalmat kapnak a tevékenységért.
+> A proof-of-stake blokklánc hálózaton résztvevő entitásokat mintereknek (szabatos fordításban pénzverőknek) vagy más néven validátorokonak nevezzük. A legtöbb protokollban a validátorok jutalmat kapnak a tevékenységért.
 
 *Letétet rakok le, és a letétek arányában részesülök, a kis letétesek nagyobb arányban kapnak, hogy ne vesszenek el.*
 
-
-
+> Előnyök:
+> - jutalékok olcsóbbak
+> - trust intermediation
 
